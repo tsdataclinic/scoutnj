@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/scoutNJ/static/css/main.e6c651d0.chunk.css",
+    "main.js": "/scoutNJ/static/js/main.cc5c0a87.chunk.js",
+    "main.js.map": "/scoutNJ/static/js/main.cc5c0a87.chunk.js.map",
+    "runtime-main.js": "/scoutNJ/static/js/runtime-main.72573fb6.js",
+    "runtime-main.js.map": "/scoutNJ/static/js/runtime-main.72573fb6.js.map",
+    "static/css/2.c934cad8.chunk.css": "/scoutNJ/static/css/2.c934cad8.chunk.css",
+    "static/js/2.c78a50d3.chunk.js": "/scoutNJ/static/js/2.c78a50d3.chunk.js",
+    "static/js/2.c78a50d3.chunk.js.map": "/scoutNJ/static/js/2.c78a50d3.chunk.js.map",
+    "index.html": "/scoutNJ/index.html",
+    "precache-manifest.f7f266e5e6df3db11a4495ac7bafe77e.js": "/scoutNJ/precache-manifest.f7f266e5e6df3db11a4495ac7bafe77e.js",
+    "service-worker.js": "/scoutNJ/service-worker.js",
+    "static/css/2.c934cad8.chunk.css.map": "/scoutNJ/static/css/2.c934cad8.chunk.css.map",
+    "static/css/main.e6c651d0.chunk.css.map": "/scoutNJ/static/css/main.e6c651d0.chunk.css.map",
+    "static/js/2.c78a50d3.chunk.js.LICENSE": "/scoutNJ/static/js/2.c78a50d3.chunk.js.LICENSE",
+    "static/media/collection.1a7a2605.svg": "/scoutNJ/static/media/collection.1a7a2605.svg",
+    "static/media/dataClinicWhite.15f75b4c.svg": "/scoutNJ/static/media/dataClinicWhite.15f75b4c.svg",
+    "static/media/explore.fb15de02.svg": "/scoutNJ/static/media/explore.fb15de02.svg",
+    "static/media/joinable.93c21e40.svg": "/scoutNJ/static/media/joinable.93c21e40.svg",
+    "static/media/thematicSimilarity.043de5d7.svg": "/scoutNJ/static/media/thematicSimilarity.043de5d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72573fb6.js",
+    "static/css/2.c934cad8.chunk.css",
+    "static/js/2.c78a50d3.chunk.js",
+    "static/css/main.e6c651d0.chunk.css",
+    "static/js/main.cc5c0a87.chunk.js"
+  ]
+}
